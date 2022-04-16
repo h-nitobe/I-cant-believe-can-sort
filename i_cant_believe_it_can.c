@@ -3,7 +3,7 @@
 *	@brief		I cant't believe can sort. 
 *	@author		Hiroaki Nitobe / 新渡戸広明
 *	@date		2022/04/17
-	@version	1.0.0
+*	@version	1.0.0
 *	@details	I cant't believe can sort. 
 *				ソートできるなんて信じられない。
 *				Is this the simplest (and most surprising) sorting algorithm ever?
