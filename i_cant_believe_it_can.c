@@ -1,10 +1,10 @@
 /**
 *	@file		i_cant_believe_it_can.c
-*	@brief		I cant't believe can sort. 
+*	@brief		I can't believe can sort. 
 *	@author		Hiroaki Nitobe / 新渡戸広明
 *	@date		2022/04/17
 *	@version	1.0.0
-*	@details	I cant't believe can sort. 
+*	@details	I can't believe can sort. 
 *				ソートできるなんて信じられない。
 *				Is this the simplest (and most surprising) sorting algorithm ever?
 *				これは、これまでで最もシンプルな（そして最も驚くべき）ソートアルゴリズムなのだろうか？
